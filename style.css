@@ -1,0 +1,25 @@
+.carousel-item{
+    padding:20px 40px;
+}
+.bg-carousel{
+    background-color:#FEEAE9;
+}
+.price{
+    color:#E62060;
+    font-weight: 700;
+}
+
+h1{
+    text-transform:capitalize;
+    font-weight:700;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #EB236D 0%, #EE4185 100%);
+    padding:8px 20px;
+    border-radius:5px;
+    border:none;
+    cursor:pointer;
+    color:#fff;
+    text-transform:capitalize;
+
+}
